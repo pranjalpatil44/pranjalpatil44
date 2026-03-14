@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Pranjal%20Manoj%20Patil&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Building%20AI%20that%20thinks%20%E2%80%A2%20Data%20that%20speaks%20%E2%80%A2%20Web%20that%20works&descSize=15&descAlignY=68&descColor=aaaaaa&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Pranjal%20Manoj%20Patil&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Building%20AI%20that%20thinks%20%E2%80%A2%20Data%20that%20speaks%20%E2%80%A2%20Web%20that%20works&descSize=16&descAlignY=62&descColor=bbbbbb&animation=fadeIn" />
 </div>
 
 <br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F5C518&center=true&vCenter=true&multiline=false&width=600&lines=AI+%26+ML+Developer+%F0%9F%A4%96;Data+Science+Enthusiast+%F0%9F%93%8A;Full-Stack+Web+Developer+%F0%9F%8C%90;BCA+Student+%40+IMED+Pune+%F0%9F%8E%93;Open+to+Internships+%26+Collabs+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F5C518&center=true&vCenter=true&width=600&lines=AI+%26+ML+Developer+%F0%9F%A4%96;Data+Science+Enthusiast+%F0%9F%93%8A;Full-Stack+Web+Developer+%F0%9F%8C%90;BCA+Student+%40+IMED+Pune+%F0%9F%8E%93;Open+to+Internships+%26+Collabs+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,7 +15,7 @@
 <div align="center">
 
 <a href="https://pranjalportfolio.infinityfreeapp.com/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-pranjalportfolio.infinityfreeapp.com-f5c518?style=for-the-badge&labelColor=000000&color=f5c518" />
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-pranjalportfolio.infinityfreeapp.com-f5c518?style=for-the-badge&labelColor=000000" />
 </a>
 
 <br/><br/>
@@ -75,9 +75,49 @@ status   : Open to Internships 🟢
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pytorch,flask,fastapi,streamlit,js&theme=dark&perline=8" />
-<img src="https://skillicons.dev/icons?i=html,css,php,bootstrap,mysql,git,github,vscode&theme=dark&perline=8" />
-<img src="https://skillicons.dev/icons?i=linux,docker,jupyter,figma,postman,colab,pandas,numpy&theme=dark&perline=8" />
+**— AI & Machine Learning —**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logoColor=white)
+
+<br/>
+
+**— Data Science —**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+<br/>
+
+**— Web Development —**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<br/>
+
+**— Tools & Platforms —**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -162,26 +202,16 @@ status   : Open to Internships 🟢
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranjalpatil44&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="96%" />
-</div>
-
-<br/>
-
----
-
 ## 🤝 Open to Opportunities
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=f5c518&center=true&vCenter=true&width=500&lines=Available+for+Internships+%F0%9F%92%BC;Open+to+Project+Collaborations+%F0%9F%A4%9D;Let's+build+something+amazing+together+%F0%9F%9A%80" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=F5C518&center=true&vCenter=true&width=500&lines=Available+for+Internships+%F0%9F%92%BC;Open+to+Project+Collaborations+%F0%9F%A4%9D;Let's+build+something+amazing+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<br/><br/>
+<br/>
 
 <a href="https://pranjalportfolio.infinityfreeapp.com/">
-  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&color=f5c518&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-f5c518?style=for-the-badge&labelColor=000000" />
 </a>
 
 <br/><br/>
