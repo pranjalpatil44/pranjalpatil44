@@ -1,217 +1,207 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pranjal%20Manoj%20Patil&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Full-Stack%20Web&descSize=16&descAlignY=60&descColor=cccccc" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Pranjal%20Manoj%20Patil&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Building%20AI%20that%20thinks%20%E2%80%A2%20Data%20that%20speaks%20%E2%80%A2%20Web%20that%20works&descSize=15&descAlignY=68&descColor=aaaaaa&animation=fadeIn" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://pranjalportfolio.infinityfreeapp.com/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-f5c518?style=for-the-badge&labelColor=000000" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/pranjalpatil1805">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/pranjalpatil44">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:pranjalpatil11805@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F5C518&center=true&vCenter=true&multiline=false&width=600&lines=AI+%26+ML+Developer+%F0%9F%A4%96;Data+Science+Enthusiast+%F0%9F%93%8A;Full-Stack+Web+Developer+%F0%9F%8C%90;BCA+Student+%40+IMED+Pune+%F0%9F%8E%93;Open+to+Internships+%26+Collabs+%F0%9F%A4%9D)](https://git.io/typing-svg)
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranjalpatil44&style=flat-square&color=f5c518&label=Profile+Views" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/pranjalpatil44?style=flat-square&color=181717&label=Followers&logo=github" />
-</div>
 
-<br/>
+<a href="https://pranjalportfolio.infinityfreeapp.com/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-pranjalportfolio.infinityfreeapp.com-f5c518?style=for-the-badge&labelColor=000000&color=f5c518" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/pranjalpatil1805">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/pranjalpatil44">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:pranjalpatil11805@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=pranjalpatil44&style=for-the-badge&color=f5c518&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/pranjalpatil44?style=for-the-badge&logo=github&label=FOLLOWERS&color=181717" />
+
+</div>
 
 ---
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=pranjalpatil44&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f5c518&text_color=c9d1d9&icon_color=f5c518&hide=contribs&rank_icon=github" />
+<br/>
 
-### 👋 Hey, I'm Pranjal
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=pranjalpatil44&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f5c518&text_color=c9d1d9&icon_color=f5c518&rank_icon=percentile&include_all_commits=true&count_private=true" />
 
-I'm a **BCA student** at **IMED Pune** building things at the intersection of **data and decisions** — AI tools, ML pipelines, dashboards, and web platforms that solve real problems.
+### 🧑‍💻 Who am I?
 
-- 🎓 &nbsp; CGPA **8.70 / 10** · IMED, Pune
-- 🤖 &nbsp; Focused on **AI, ML & Data Science**
+```yaml
+name     : Pranjal Manoj Patil
+degree   : BCA — In Progress
+college  : IMED, Pune
+cgpa     : 8.70 / 10
+location : Pune, India
+status   : Open to Internships 🟢
+```
+
+<br/>
+
+- 🤖 &nbsp; I build **AI tools** that solve real problems
+- 📊 &nbsp; I turn **raw data** into actionable insights
+- 🌐 &nbsp; I ship **full-stack web apps** end to end
 - 🌱 &nbsp; Currently building **AI Decision Copilot**
-- 💼 &nbsp; Open to **internships & collaborations**
-- 📍 &nbsp; Based in **Pune, India**
+- ⚡ &nbsp; Fun fact: I believe every dataset has a story
 
 <br clear="right"/>
 
 ---
 
-## ⚡ Tech Stack
+<br/>
+
+## 🛠️ Arsenal
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br/>Python
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /><br/>TensorFlow
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Sklearn" /><br/>Sklearn
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br/>PyTorch
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br/>Flask
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br/>PHP
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br/>JavaScript
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br/>HTML
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br/>CSS
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" /><br/>SQL
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br/>Git
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br/>GitHub
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br/>VS Code
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br/>Linux
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br/>Docker
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br/>Bootstrap
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pytorch,flask,fastapi,streamlit,js&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,php,bootstrap,mysql,git,github,vscode&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=linux,docker,jupyter,figma,postman,colab,pandas,numpy&theme=dark&perline=8" />
 
 </div>
 
+<br/>
+
 ---
 
-## 🚀 Projects
+## 🚀 What I've Built
 
 <div align="center">
 
 <a href="https://github.com/pranjalpatil44/VentureMindAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranjalpatil44&repo=VentureMindAI&bg_color=0d1117&title_color=f5c518&text_color=c9d1d9&icon_color=f5c518&border_color=30363d" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranjalpatil44&repo=VentureMindAI&bg_color=0d1117&title_color=f5c518&text_color=c9d1d9&icon_color=f5c518&border_color=f5c518&border_radius=10" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/pranjalpatil44/WebTasks">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranjalpatil44&repo=WebTasks&bg_color=0d1117&title_color=f5c518&text_color=c9d1d9&icon_color=f5c518&border_color=30363d" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranjalpatil44&repo=WebTasks&bg_color=0d1117&title_color=f5c518&text_color=c9d1d9&icon_color=f5c518&border_color=30363d&border_radius=10" />
 </a>
 
 </div>
 
 <br/>
 
+<div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
-
-**🤖 VentureMind AI** &nbsp; [`→ View`](https://github.com/pranjalpatil44/VentureMindAI)
-
-AI-driven venture analysis system — opportunity generation, financial simulation & decision intelligence to help founders evaluate startup viability.
-
-`Python` `Flet` `Groq` `AI`
-
+<td align="center" width="25%">
+  <h3>🤖</h3>
+  <strong>VentureMind AI</strong><br/>
+  <sub>AI venture analysis · opportunity generation · financial simulation</sub><br/><br/>
+  <a href="https://github.com/pranjalpatil44/VentureMindAI">
+    <img src="https://img.shields.io/badge/View_Repo-f5c518?style=flat-square&logo=github&logoColor=black" />
+  </a>
 </td>
-<td width="50%" valign="top">
-
-**🌐 Web Dev Tasks** &nbsp; [`→ View`](https://github.com/pranjalpatil44/WebTasks)
-
-Frontend project collection from SkillCraft Technology internship — Landing Page, Tic-Tac-Toe, Stopwatch, To-Do List.
-
-`HTML` `CSS` `JavaScript`
-
+<td align="center" width="25%">
+  <h3>🌐</h3>
+  <strong>Web Dev Tasks</strong><br/>
+  <sub>SkillCraft internship · Landing Page · Tic-Tac-Toe · Stopwatch · To-Do</sub><br/><br/>
+  <a href="https://github.com/pranjalpatil44/WebTasks">
+    <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🧠 AI Decision Copilot** &nbsp; *In Progress*
-
-Smart data cleaning & pattern recognition tool that surfaces actionable insights automatically from raw datasets.
-
-`Python` `Streamlit` `Pandas`
-
+<td align="center" width="25%">
+  <h3>🧠</h3>
+  <strong>AI Decision Copilot</strong><br/>
+  <sub>Data cleaning · pattern recognition · insight generation</sub><br/><br/>
+  <img src="https://img.shields.io/badge/In_Progress-f5c518?style=flat-square&logoColor=black" />
 </td>
-<td width="50%" valign="top">
-
-**💼 Developer Portfolio** &nbsp; [`→ Live`](https://pranjalportfolio.infinityfreeapp.com/)
-
-Terminal-themed portfolio with a PHP admin CMS — manage projects, skills, certs and resume without touching code.
-
-`PHP` `JavaScript` `CSS`
-
+<td align="center" width="25%">
+  <h3>💼</h3>
+  <strong>Dev Portfolio</strong><br/>
+  <sub>Terminal-themed · PHP CMS · admin panel · JSON data store</sub><br/><br/>
+  <a href="https://pranjalportfolio.infinityfreeapp.com/">
+    <img src="https://img.shields.io/badge/Live_Site-00C853?style=flat-square&logo=firefox&logoColor=white" />
+  </a>
 </td>
 </tr>
 </table>
+</div>
+
+<br/>
 
 ---
 
-## � GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalpatil44&layout=donut&hide_border=true&bg_color=0d1117&title_color=f5c518&text_color=c9d1d9&icon_color=f5c518" height="200" />
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=pranjalpatil44&hide_border=true&background=0d1117&ring=f5c518&fire=f5c518&currStreakLabel=f5c518&sideLabels=c9d1d9&dates=888888&currStreakNum=ffffff&sideNums=ffffff" height="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalpatil44&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=f5c518&text_color=c9d1d9&border_radius=10" height="220" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com?user=pranjalpatil44&hide_border=true&background=0d1117&ring=f5c518&fire=ff6b35&currStreakLabel=f5c518&sideLabels=c9d1d9&dates=666666&currStreakNum=ffffff&sideNums=ffffff&border_radius=10" height="220" />
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjalpatil44&bg_color=0d1117&color=f5c518&line=f5c518&point=ffffff&area=true&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjalpatil44&bg_color=0d1117&color=f5c518&line=f5c518&point=ffffff&area=true&area_color=f5c51830&hide_border=true&radius=8" width="96%" />
 </div>
+
+<br/>
 
 ---
 
-## 🤝 Let's Connect
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pranjalpatil44&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="96%" />
+</div>
+
+<br/>
+
+---
+
+## 🤝 Open to Opportunities
 
 <div align="center">
 
-*I'm actively looking for internship opportunities and open to collaborating on AI, data science, or web development projects.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=f5c518&center=true&vCenter=true&width=500&lines=Available+for+Internships+%F0%9F%92%BC;Open+to+Project+Collaborations+%F0%9F%A4%9D;Let's+build+something+amazing+together+%F0%9F%9A%80" />
 
-<br/>
+<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_pranjalportfolio.infinityfreeapp.com-000000?style=for-the-badge)](https://pranjalportfolio.infinityfreeapp.com/)
+<a href="https://pranjalportfolio.infinityfreeapp.com/">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&color=f5c518&labelColor=000000" />
+</a>
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pranjalpatil1805-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjalpatil1805)
+<a href="https://www.linkedin.com/in/pranjalpatil1805">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-pranjalpatil11805@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranjalpatil11805@gmail.com)
+<a href="mailto:pranjalpatil11805@gmail.com">
+  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<sub>📍 Pune, India &nbsp;·&nbsp; Open to remote & on-site opportunities</sub>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 </div>
