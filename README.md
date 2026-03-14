@@ -1,89 +1,172 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f5c518&height=120&section=header&text=Pranjal%20Manoj%20Patil&fontSize=36&fontColor=000000&fontAlignY=45&desc=AI%20%26%20ML%20Developer%20%C2%B7%20Data%20Science%20%C2%B7%20Full-Stack%20Web&descSize=14&descAlignY=70&descColor=333333" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pranjal%20Manoj%20Patil&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Full-Stack%20Web&descSize=16&descAlignY=60&descColor=cccccc" />
 </div>
 
 <br/>
 
 <div align="center">
+  <a href="https://pranjalportfolio.infinityfreeapp.com/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-f5c518?style=for-the-badge&labelColor=000000" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/pranjalpatil1805">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/pranjalpatil44">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:pranjalpatil11805@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-f5c518?style=for-the-badge&logoColor=black)](https://pranjalportfolio.infinityfreeapp.com/)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjalpatil1805)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranjalpatil44)
-&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranjalpatil11805@gmail.com)
+<br/>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pranjalpatil44&style=flat-square&color=f5c518&label=Profile+Views" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/pranjalpatil44?style=flat-square&color=181717&label=Followers&logo=github" />
 </div>
 
 <br/>
 
 ---
 
-## 👨‍💻 About Me
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=pranjalpatil44&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f5c518&text_color=c9d1d9&icon_color=f5c518&hide=contribs&rank_icon=github" />
 
-> *"Every dataset has a story — I want to be the one who tells it."*
+### 👋 Hey, I'm Pranjal
 
-I'm a **BCA student** at the **Institute of Management and Entrepreneurship Development (IMED), Pune** with a CGPA of **8.70 / 10**, passionate about building AI tools, data-driven applications, and modern web platforms.
+I'm a **BCA student** at **IMED Pune** building things at the intersection of **data and decisions** — AI tools, ML pipelines, dashboards, and web platforms that solve real problems.
 
-I don't just learn technologies — I apply them to solve real problems. From AI venture analysis systems to full-stack web apps, I focus on shipping things that actually work.
+- 🎓 &nbsp; CGPA **8.70 / 10** · IMED, Pune
+- 🤖 &nbsp; Focused on **AI, ML & Data Science**
+- 🌱 &nbsp; Currently building **AI Decision Copilot**
+- 💼 &nbsp; Open to **internships & collaborations**
+- 📍 &nbsp; Based in **Pune, India**
 
-```yaml
-Name       : Pranjal Manoj Patil
-Degree     : Bachelor of Computer Applications (BCA) — In Progress
-University : IMED, Pune
-CGPA       : 8.70 / 10
-Location   : Pune, India
-Status     : Open to Internships & Collaborations
-Focus      : AI · ML · Data Science · Web Development
-```
+<br clear="right"/>
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ Tech Stack
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br/>Python
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /><br/>TensorFlow
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Sklearn" /><br/>Sklearn
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br/>PyTorch
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br/>Flask
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br/>PHP
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br/>JavaScript
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br/>HTML
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br/>CSS
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" /><br/>SQL
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br/>Git
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br/>GitHub
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br/>VS Code
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br/>Linux
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br/>Docker
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br/>Bootstrap
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🚀 Projects
+
+<div align="center">
+
+<a href="https://github.com/pranjalpatil44/VentureMindAI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranjalpatil44&repo=VentureMindAI&bg_color=0d1117&title_color=f5c518&text_color=c9d1d9&icon_color=f5c518&border_color=30363d" />
+</a>
+&nbsp;
+<a href="https://github.com/pranjalpatil44/WebTasks">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranjalpatil44&repo=WebTasks&bg_color=0d1117&title_color=f5c518&text_color=c9d1d9&icon_color=f5c518&border_color=30363d" />
+</a>
+
+</div>
+
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [VentureMind AI](https://github.com/pranjalpatil44/VentureMindAI)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flet](https://img.shields.io/badge/-Flet-00B4D8?style=flat-square)
-![Groq](https://img.shields.io/badge/-Groq-FF6B35?style=flat-square)
+**🤖 VentureMind AI** &nbsp; [`→ View`](https://github.com/pranjalpatil44/VentureMindAI)
 
-An AI-driven venture analysis system that integrates **opportunity generation**, **financial simulation**, and **decision intelligence** to help founders evaluate startup viability through data-driven insights.
+AI-driven venture analysis system — opportunity generation, financial simulation & decision intelligence to help founders evaluate startup viability.
+
+`Python` `Flet` `Groq` `AI`
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [Web Dev Tasks](https://github.com/pranjalpatil44/WebTasks)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**🌐 Web Dev Tasks** &nbsp; [`→ View`](https://github.com/pranjalpatil44/WebTasks)
 
-Frontend project collection from the **SkillCraft Technology** internship — Landing Page, Tic-Tac-Toe, Stopwatch, and To-Do List built with vanilla web technologies.
+Frontend project collection from SkillCraft Technology internship — Landing Page, Tic-Tac-Toe, Stopwatch, To-Do List.
+
+`HTML` `CSS` `JavaScript`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 AI Decision Copilot *(In Progress)*
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+**🧠 AI Decision Copilot** &nbsp; *In Progress*
 
-A smart **data cleaning and pattern recognition** tool that helps analysts identify data quality issues and surface actionable insights automatically.
+Smart data cleaning & pattern recognition tool that surfaces actionable insights automatically from raw datasets.
+
+`Python` `Streamlit` `Pandas`
 
 </td>
 <td width="50%" valign="top">
 
-### 💼 [Developer Portfolio](https://pranjalportfolio.infinityfreeapp.com/)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**💼 Developer Portfolio** &nbsp; [`→ Live`](https://pranjalportfolio.infinityfreeapp.com/)
 
-A terminal-themed personal portfolio with a **PHP-powered admin CMS** — manage projects, skills, certifications, and resume uploads without touching code.
+Terminal-themed portfolio with a PHP admin CMS — manage projects, skills, certs and resume without touching code.
+
+`PHP` `JavaScript` `CSS`
 
 </td>
 </tr>
@@ -91,95 +174,44 @@ A terminal-themed personal portfolio with a **PHP-powered admin CMS** — manage
 
 ---
 
-## 🛠️ Tech Stack
+## � GitHub Analytics
 
 <div align="center">
 
-**AI & Machine Learning**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge)
-
-**Data Science**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Web Development**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-| Badge | Certificate | Issuer | Year |
-|:-----:|-------------|--------|:----:|
-| 🔶 | Oracle Cloud Infrastructure Foundations | Oracle | 2024 |
-| 🔶 | Oracle AI Foundations Associate | Oracle | 2024 |
-| 📘 | Machine Learning A-Z | Udemy | 2024 |
-| 📘 | The Complete Web Developer Bootcamp | Udemy | 2024 |
-| 📘 | Python Bootcamp — Zero to Hero | Udemy | 2023 |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pranjalpatil44&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=444444&icon_color=f5c518" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalpatil44&layout=compact&hide_border=true&bg_color=ffffff&title_color=111111&text_color=444444" height="165" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=pranjalpatil44&hide_border=true&background=ffffff&ring=f5c518&fire=f5c518&currStreakLabel=111111&sideLabels=444444&dates=888888&currStreakNum=111111&sideNums=111111" height="165" />
-
-</div>
-
----
-
-## 🤝 Let's Work Together
-
-I'm actively looking for **internship opportunities** and open to **collaborating on interesting projects** in AI, data science, or web development.
-
-<div align="center">
-
-| | |
-|:--:|:--|
-| 🌐 | [pranjalportfolio.infinityfreeapp.com](https://pranjalportfolio.infinityfreeapp.com/) |
-| 💼 | [linkedin.com/in/pranjalpatil1805](https://www.linkedin.com/in/pranjalpatil1805) |
-| 📧 | [pranjalpatil11805@gmail.com](mailto:pranjalpatil11805@gmail.com) |
-| 📍 | Pune, India |
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalpatil44&layout=donut&hide_border=true&bg_color=0d1117&title_color=f5c518&text_color=c9d1d9&icon_color=f5c518" height="200" />
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com?user=pranjalpatil44&hide_border=true&background=0d1117&ring=f5c518&fire=f5c518&currStreakLabel=f5c518&sideLabels=c9d1d9&dates=888888&currStreakNum=ffffff&sideNums=ffffff" height="200" />
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f5c518&height=80&section=footer" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjalpatil44&bg_color=0d1117&color=f5c518&line=f5c518&point=ffffff&area=true&hide_border=true" width="95%" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+*I'm actively looking for internship opportunities and open to collaborating on AI, data science, or web development projects.*
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_pranjalportfolio.infinityfreeapp.com-000000?style=for-the-badge)](https://pranjalportfolio.infinityfreeapp.com/)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pranjalpatil1805-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjalpatil1805)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-pranjalpatil11805@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranjalpatil11805@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
