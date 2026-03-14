@@ -1,128 +1,92 @@
-<div align="center">
+<h1 align="center">Pranjal Manoj Patil</h1>
 
-```python
-import DataScientist
+<p align="center">
+  BCA Student &nbsp;·&nbsp; AI & Machine Learning &nbsp;·&nbsp; Data Science &nbsp;·&nbsp; Web Development<br/>
+  Institute of Management and Entrepreneurship Development (IMED), Pune &nbsp;·&nbsp; CGPA: 8.70 / 10
+</p>
 
-me = DataScientist(
-    name="Pranjal Manoj Patil",
-    location="Pune, India",
-    focus=["AI", "ML", "Data Science"],
-    status="open_to_opportunities"
-)
-
-print(me.profile())
-```
-
-# Hey, I'm Pranjal 👋
-
-**BCA Student · AI & ML Enthusiast · Data Science · Web Developer**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pranjalpatil1805-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjalpatil1805)
-[![Gmail](https://img.shields.io/badge/Gmail-pranjalpatil11805@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranjalpatil11805@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-f5c518?style=for-the-badge&logo=firefox&logoColor=black)](#)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranjalpatil1805">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/pranjalpatil44">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:pranjalpatil11805@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## About Me
+## About
 
-- 🎓 BCA student at **IMED Pune** — specialising in AI, ML & Web Development
-- 📊 CGPA: **8.70 / 10**
-- 🤖 I build AI tools, dashboards, and data-driven web apps
-- 🌱 Currently working on **AI Decision Copilot** — a data cleaning & pattern recognition tool
-- 💡 Driven by the belief that every dataset has a story
-- 📍 Pune, India · Open to **internships & freelance**
+I am a BCA student specialising in Artificial Intelligence, Machine Learning, and full-stack web development. I focus on building practical, data-driven applications — from end-to-end ML pipelines and interactive dashboards to web platforms that solve real problems.
+
+I am currently open to **internship opportunities** and **collaborative projects** in the domains of AI, data science, and software development.
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
-**AI / ML**
+**Languages**
+Python · JavaScript · PHP · SQL · HTML · CSS
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![XGBoost](https://img.shields.io/badge/XGBoost-189fdd?style=flat)
+**AI / Machine Learning**
+Scikit-learn · TensorFlow · Keras · XGBoost · LightGBM · HuggingFace · BERT
 
 **Data Science**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+Pandas · NumPy · Matplotlib · Seaborn · Plotly · Jupyter · Google Colab
 
 **Web Development**
+Flask · Streamlit · Bootstrap · REST APIs
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
+**Tools & Platforms**
+Git · GitHub · VS Code · Linux · Docker (basics) · Kaggle
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [**VentureMind AI**](https://github.com/pranjalpatil44/VentureMindAI) | Python · Flet · Groq | AI-driven venture analysis — opportunity generation, financial simulation & decision intelligence |
-| [**Web Tasks**](https://github.com/pranjalpatil44/WebTasks) | HTML · CSS · JS | Collection of frontend projects — Landing Page, Tic-Tac-Toe, Stopwatch, To-Do List |
-| **AI Decision Copilot** *(In Progress)* | Python · Streamlit · Pandas | Data cleaning tool with pattern recognition and decision support |
+### [VentureMind AI](https://github.com/pranjalpatil44/VentureMindAI)
+An AI-driven venture analysis system built with Python, Flet, and Groq. Integrates opportunity generation, differentiation strategy, financial simulation, and decision intelligence to help founders evaluate startup viability through structured business modelling.
 
----
+### [Web Development Tasks](https://github.com/pranjalpatil44/WebTasks)
+A collection of frontend projects completed during the SkillCraft Technology internship, including a responsive landing page, Tic-Tac-Toe game, stopwatch, and to-do list application — all built with HTML, CSS, and JavaScript.
 
-## 📜 Certifications
-
-- 🏅 **Oracle Cloud Infrastructure Foundations** — Oracle, 2024
-- 🏅 **Oracle AI Foundations Associate** — Oracle, 2024
-- 🏅 **Python Bootcamp — Zero to Hero** — Udemy, 2023
-- 🏅 **Machine Learning A-Z** — Udemy, 2024
-- 🏅 **The Complete Web Developer Bootcamp** — Udemy, 2024
+### AI Decision Copilot *(In Progress)*
+A data cleaning and pattern recognition tool built with Python, Streamlit, and Pandas. Designed to assist analysts in identifying data quality issues and generating actionable insights automatically.
 
 ---
 
-## 📊 GitHub Stats
+## Certifications
 
-<div align="center">
-
-![Pranjal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranjalpatil44&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=f5c518&icon_color=f5c518&text_color=e0e0e0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalpatil44&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=f5c518&text_color=e0e0e0)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=pranjalpatil44&theme=dark&hide_border=true&background=0d0d0d&ring=f5c518&fire=f5c518&currStreakLabel=f5c518)
-
-</div>
+| Certificate | Issuer | Year |
+|-------------|--------|------|
+| Oracle Cloud Infrastructure Foundations | Oracle | 2024 |
+| Oracle AI Foundations Associate | Oracle | 2024 |
+| Machine Learning A-Z | Udemy | 2024 |
+| The Complete Web Developer Bootcamp | Udemy | 2024 |
+| Python Bootcamp — Zero to Hero | Udemy | 2023 |
 
 ---
 
-## 🤝 Let's Connect
+## GitHub Stats
 
-```python
-collaboration.start(
-    with_pranjal=True,
-    type=["internship", "project", "hire"],
-    expected_output="something amazing"
-)
-```
-
-📧 [pranjalpatil11805@gmail.com](mailto:pranjalpatil11805@gmail.com)
-💼 [linkedin.com/in/pranjalpatil1805](https://www.linkedin.com/in/pranjalpatil1805)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranjalpatil44&show_icons=true&theme=default&hide_border=true&title_color=000000&text_color=333333&icon_color=0A66C2" height="160" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalpatil44&layout=compact&theme=default&hide_border=true&title_color=000000&text_color=333333" height="160" />
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranjalpatil44&color=f5c518&style=flat&label=profile+views" />
-</div>
+## Contact
+
+I am always open to discussing new opportunities, collaborations, or ideas.
+
+- **Email:** [pranjalpatil11805@gmail.com](mailto:pranjalpatil11805@gmail.com)
+- **LinkedIn:** [linkedin.com/in/pranjalpatil1805](https://www.linkedin.com/in/pranjalpatil1805)
+- **Location:** Pune, India
